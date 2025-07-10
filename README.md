@@ -27,3 +27,4 @@ Highlights personal projects with links and images
 Contact form section (can be connected to a backend service)
 Built using only HTML, CSS, and JavaScript – no frameworks required
 #OUTPUT
+<img width="1895" height="1029" alt="Image" src="https://github.com/user-attachments/assets/475e6334-a6a6-4867-9f9d-b69709f6d517" />
